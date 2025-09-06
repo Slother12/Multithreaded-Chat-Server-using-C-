@@ -7,6 +7,9 @@ This is a **self project** where I built a multithreaded chat server using **C++
 The project simulates a real-time chat application with multiple clients connected to a server, exchanging messages simultaneously.  
 It was developed to strengthen my understanding of **networking, concurrency, and system programming**.  
 
+## link to repository 
+-- https://github.com/Slother12/Multithreaded-Chat-Server-using-C-
+
 ---
 
 ##  What the Project Does
